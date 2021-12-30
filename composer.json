@@ -1,7 +1,7 @@
 {
     "name": "symplify/monorepo-split",
     "license": "MIT",
-    "description": "GitHub Action for splitting monorepo. Composer is for testing PHP code only, not for package shipment",
+    "description": "GitHubs Action for splitting monorepo. Composer is for testing PHP code only, not for package shipment",
     "require": {
         "php": ">=8.0",
         "phpstan/extension-installer": "^1.1"
