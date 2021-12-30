@@ -30,8 +30,8 @@ jobs:
                     GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
                 with:
                     package_directory: 'tests/packages/some-package'
-                    repository_organization: 'symplify'
-                    repository_name: 'monorepo-split-github-action-test'
+                    repository_organization: 'snlprjti'
+                    repository_name: 'new_split'
 
                     # change to use that should be signed under the split commit
                     user_name: 'kaizen-ci'
